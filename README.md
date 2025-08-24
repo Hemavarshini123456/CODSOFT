@@ -1,41 +1,13 @@
-CODSOFT PYTHON PROGRAMMING INTERNSHIP
-This repository contains the projects completed during my Codsoft python programming internship(august 2025)
-I have implemented 3 beginner-level python tasks as part of the internship
+CODSOFT Python Internship
 
-Tasks completed
+This repository contains the tasks I completed during my Codsoft Python Internship
 
-Task1:To-Do List
+Tasks
 
--add new tasks
--view all tasks
--remove tasks
--mark tasks as complete
-file:'todo.py'
----
-Task2:Calculator
+1.To-Do List(todo.py)
+2.Calculator(calculator.py)
+3.Rock Paper Scissors Game(game.py)
 
--perform arithmetic operations:
--addition(+)
--subtraction(-)
--multiplication(*)
--division(/)
-file:'calculator.py'
----
-Task3:Rock Paper Scissors Game
-
--Play Rock,Paper,Scissors against the computer
--Computer randomly selects one option
--loop continues until the user exits
-file:'game.py'
----
-How to run the programs
-
-1.Install Python
-2.run the program using:
-python filename.py
----
-Run any task using
-
-python todo.py
-python calculator.py
-python game.py
+How to Run
+-Install python
+-Run using 'python filename.py'
