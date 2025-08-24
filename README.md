@@ -1,6 +1,7 @@
 CODSOFT PYTHON PROGRAMMING INTERNSHIP
 This repository contains the projects completed during my Codsoft python programming internship(august 2025)
 I have implemented 3 beginner-level python tasks as part of the internship
+
 Tasks completed
 Task1:To-Do List
 -add new tasks
